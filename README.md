@@ -1,2 +1,3 @@
 # Practice
-Repositories for my java practice codes
+Repository for my practice codes
+practice codes in java, javascript , php
